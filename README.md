@@ -1,7 +1,7 @@
 <!-- SECCIÓN 1: ENCABEZADO Y BANNER (HTML para centrar) -->
 <div align="center">
   <h1>Hola, soy Juan David Villada 👋</h1>
-  <h3>Ingeniero Informático en formación | Analista de Datos | Técnico en Mantenimiento Aeronautico TMA & Coordinador de Operaciones</h3>
+  <h3>Ingeniero Informático en formación | Analista de Datos | Técnico en Mantenimiento Aeronautico TMA & Coordinador de Operaciones de Seguridad Privada</h3>
   
   <p>
     De la precisión en el mantenimiento aeronáutico, centrales de monitoreo y seguridad corporativa, 
