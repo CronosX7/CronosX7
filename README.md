@@ -22,7 +22,7 @@
 <hr>
 
 <!-- SECCIÓN 2: PERFIL OPERATIVO Y TRAYECTORIA (Markdown) -->
-## 🚁 De la Aviónica y Operaciones Críticas a los Datos
+## 🚁 Del Mantenimiento Aeronautico y Operaciones Críticas en la Seguridad Privada y Coorporativa a los Datos. 
 
 Mi perfil combina más de dos décadas de disciplina operativa en entornos de alta exigencia con formación en **Ingeniería Informática (9.º semestre)** y **Analítica de Datos Empresariales**. Aplico la misma mentalidad de control de riesgos, trazabilidad y respuesta en tiempo real al desarrollo de software y la ciencia de datos:
 
