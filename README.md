@@ -1,16 +1,12 @@
 <!-- SECCIÓN 1: ENCABEZADO Y BANNER (HTML para centrar) -->
 <div align="center">
   <h1>Hola, soy Juan David Villada 👋</h1>
-<!-- SECCIÓN 1: ENCABEZADO Y BANNER (HTML para centrar) -->
-<div align="center">
 
   <!-- Banner de Trayectoria Profesional -->
   <img src="https://github.com/CronosX7/CronosX7/blob/main/Tecnolog%C3%ADa,%20Ingenier%C3%ADa%20y%20Seguridad.png?raw=true" alt="Banner de Trayectoria Profesional" width="100%">
 
-  <h3>Ingeniero Informático en formación | Analista de Datos | TMA & Coordinador de Operaciones</h3>
-  
-  <h3>Ingeniero Informático en formación | Analista de Datos | Técnico en Mantenimiento Aeronautico TMA & Coordinador de Operaciones de Seguridad Privada</h3>
-  
+  <h3>Ingeniero Informático en formación | Analista de Datos | Técnico en Mantenimiento Aeronáutico (TMA) & Coordinador de Operaciones</h3>
+
   <p>
     De la precisión en el mantenimiento aeronáutico, centrales de monitoreo y seguridad corporativa, 
     a la arquitectura de datos, automatización de procesos y desarrollo de software.
@@ -18,19 +14,19 @@
 
   <!-- Insignias de contacto (Badges) -->
   <p>
-   <a href="https://www.linkedin.com/in/juan-david-villada/" target="_blank">
+    <a href="https://www.linkedin.com/in/juan-david-villada/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juandavidvillada.ing@gmail.com&su=Contacto%20desde%20GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juandavidvillada.ing@gmail.com&su=Contacto%20desde%20GitHub" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
   </p>
 </div>
 
 <hr>
 
 <!-- SECCIÓN 2: PERFIL OPERATIVO Y TRAYECTORIA (Markdown) -->
-## 🚁 Del Mantenimiento Aeronautico y Operaciones Críticas en la Seguridad Privada y Coorporativa a los Datos. 
+## 🚁 Del Mantenimiento Aeronáutico y Operaciones Críticas en Seguridad Privada y Corporativa a los Datos
 
 Mi perfil combina más de dos décadas de disciplina operativa en entornos de alta exigencia con formación en **Ingeniería Informática (9.º semestre)** y **Analítica de Datos Empresariales**. Aplico la misma mentalidad de control de riesgos, trazabilidad y respuesta en tiempo real al desarrollo de software y la ciencia de datos:
 
