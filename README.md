@@ -3,7 +3,6 @@
   <h1>Hola, soy Juan David Villada 👋</h1>
 <!-- SECCIÓN 1: ENCABEZADO Y BANNER (HTML para centrar) -->
 <div align="center">
-  <h1>Hola, soy Juan David Villada 👋</h1>
 
   <!-- Banner de Trayectoria Profesional -->
   <img src="https://github.com/CronosX7/CronosX7/blob/main/Tecnolog%C3%ADa,%20Ingenier%C3%ADa%20y%20Seguridad.png?raw=true" alt="Banner de Trayectoria Profesional" width="100%">
