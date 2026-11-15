@@ -10,7 +10,7 @@
 
   <!-- Insignias de contacto (Badges) -->
   <p>
-    <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+   <a href="https://www.linkedin.com/in/juan-david-villada/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:TU-CORREO@ejemplo.com">
