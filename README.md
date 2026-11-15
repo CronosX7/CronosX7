@@ -31,7 +31,7 @@ Mi perfil combina más de dos décadas de disciplina operativa en entornos de al
 - 📋 **Logística & Planeación Operativa:** *Programador de Turnos en Seguridad Privada*, optimizando la asignación de talento humano y garantizando la continuidad operativa sin brechas de cobertura.
 - ✈️ **Aviación Militar & Mantenimiento (20+ años):** Suboficial, *Técnico en Mantenimiento Aeronáutico (TMA)* de helicópteros MI-17 y *Jefe de Tripulación* (1,438+ horas de vuelo) en el Ejército Nacional de Colombia.
 
-- 🔭 **Enfoque tecnológico:** Análisis de datos empresariales, automatización de flujos de trabajo y desarrollo backend.
+- 🔭 **Enfoque tecnológico:** Analítica de datos aplicada a seguridad y GRC (Gobierno, Riesgo y Cumplimiento), evaluación de indicadores de gestión y riesgo (KPI/KRI), automatización de procesos. 
 - 📍 **Ubicación:** Bogotá, Colombia.
 
 ---
