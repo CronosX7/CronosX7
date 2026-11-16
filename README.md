@@ -3,7 +3,7 @@
   <h1>Hola, soy Juan David Villada 👋</h1>
 
   <!-- Banner de Trayectoria Profesional -->
-  <img src="https://github.com/CronosX7/CronosX7/blob/main/Tecnolog%C3%ADa,%20Ingenier%C3%ADa%20y%20Seguridad.png?raw=true" alt="Banner de Trayectoria Profesional" width="100%">
+  <img src="https://github.com/CronosX7/CronosX7/blob/main/Tecnolog%C3%ADa,%20Aviaci%C3%B3n%20y%20Seguridad%20Integradas.png?raw=true" alt="Banner de Trayectoria Profesional" width="100%">
 
   <h3>Ingeniero Informático en formación | Analista de Datos | Técnico en Mantenimiento Aeronáutico (TMA) & Coordinador de Operaciones</h3>
 
